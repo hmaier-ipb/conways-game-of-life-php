@@ -31,3 +31,10 @@ function createBlankUniverseHtml($width, $height){
     }
     return $universe;
 }
+
+function checkCellState($x,$y){
+    $alive = 0;
+
+
+}
+
