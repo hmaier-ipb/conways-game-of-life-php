@@ -1,7 +1,7 @@
 <?php
 
 
-class Universe {
+class Universe{
 
     protected int $height;
     protected int $width;
@@ -31,11 +31,7 @@ class Universe {
            $count += 1;
         }
         erl($count);
+        return $count;
     }
-
-
-
-
-
 
 }
